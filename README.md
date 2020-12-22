@@ -1,2 +1,2 @@
 # Hanoi
-homework of sj
+Final project for **Course 101080 Object-Oriented Programming**.
